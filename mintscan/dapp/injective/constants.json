@@ -47,4 +47,14 @@
     "description": "Stabilizing Prices Across the IBC.",
     "link": "https://app.whitewhale.money/injective/swap"
   }
+  "id”: “levana”,
+“name”: “Levana”,
+“dappType”: “Defi”,
+“description”: “Levana is a crypto collateralized perpetual swap platform”,
+“link”: “https://trade.levana.finance/sei/trade/SEI_USD",
+“social”: {
+“webSite”: “https://www.levana.finance/",
+“twitter”: “https://twitter.com/Levana_protocol",
+“medium”: “https://blog.levana.finance/",
+“docs”: “https://docs.levana.finance/intro"
 ]
